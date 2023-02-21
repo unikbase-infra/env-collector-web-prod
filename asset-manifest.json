@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4feb0240.css",
-    "main.js": "/static/js/main.ea859edc.js",
-    "static/js/787.1995788f.chunk.js": "/static/js/787.1995788f.chunk.js",
-    "static/media/setup-password-image.png": "/static/media/setup-password-image.8307871debaa089780f5.png",
-    "static/media/logo.png": "/static/media/logo.ac2224d432eb32532930.png",
-    "index.html": "/index.html",
-    "main.4feb0240.css.map": "/static/css/main.4feb0240.css.map",
-    "main.ea859edc.js.map": "/static/js/main.ea859edc.js.map",
-    "787.1995788f.chunk.js.map": "/static/js/787.1995788f.chunk.js.map"
+    "main.css": "./static/css/main.12382376.css",
+    "main.js": "./static/js/main.2a2c5146.js",
+    "static/js/787.1995788f.chunk.js": "./static/js/787.1995788f.chunk.js",
+    "index.html": "./index.html",
+    "main.12382376.css.map": "./static/css/main.12382376.css.map",
+    "main.2a2c5146.js.map": "./static/js/main.2a2c5146.js.map",
+    "787.1995788f.chunk.js.map": "./static/js/787.1995788f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4feb0240.css",
-    "static/js/main.ea859edc.js"
+    "static/css/main.12382376.css",
+    "static/js/main.2a2c5146.js"
   ]
 }
