@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.d3644d93.css",
-    "main.js": "./static/js/main.8abe8549.js",
+    "main.js": "./static/js/main.c338df42.js",
     "static/media/setup-password-image.png": "./static/media/setup-password-image.8307871debaa089780f5.png",
     "index.html": "./index.html",
     "main.d3644d93.css.map": "./static/css/main.d3644d93.css.map",
-    "main.8abe8549.js.map": "./static/js/main.8abe8549.js.map"
+    "main.c338df42.js.map": "./static/js/main.c338df42.js.map"
   },
   "entrypoints": [
     "static/css/main.d3644d93.css",
-    "static/js/main.8abe8549.js"
+    "static/js/main.c338df42.js"
   ]
 }
