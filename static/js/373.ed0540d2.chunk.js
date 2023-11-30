@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkunikbase_web=self.webpackChunkunikbase_web||[]).push([[373],{54373:function(e,s,i){e.exports=i.p+"static/media/insta-pink.58e87265d8306536e521.jpeg"}}]);
