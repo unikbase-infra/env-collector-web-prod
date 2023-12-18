@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkunikbase_web=self.webpackChunkunikbase_web||[]).push([[683],{8683:(e,s,a)=>{e.exports=a.p+"static/media/insta-green.d151c01d4b10897d75f8.jpeg"}}]);
