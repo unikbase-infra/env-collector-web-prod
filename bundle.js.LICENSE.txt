@@ -64,9 +64,6 @@ long/index.js:
    *)
 */
 
-/*! Case - v1.6.2 - 2020-03-24
-* Copyright (c) 2020 Nathan Bubna; Licensed MIT, GPL */
-
 /*! crc32.js (C) 2014-present SheetJS -- http://sheetjs.com */
 
 /*! https://mths.be/punycode v1.4.1 by @mathias */
@@ -216,6 +213,14 @@ long/index.js:
 
 /**
  * @mui/material v5.11.9
+ *
+ * @license MIT
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @mui/styled-engine v5.11.9
  *
  * @license MIT
  * This source code is licensed under the MIT license found in the
